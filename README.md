@@ -1,2 +1,1 @@
-# Eschool
-Eschool Project
+https://salman-noor-web.github.io/Eschool/
